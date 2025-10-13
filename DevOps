@@ -8,7 +8,7 @@ Before Devops programmers would "throw code over the wall" to the operations tea
 
 The purpose of DevOps is to shorten the development lifecycle and improve collaboration, reliability and delivery speed through automation.
 
-A pipeline is an automated sequence of steps that builds, tests and deploys code from development to production.
+A pipeline is an automated sequence of steps that builds, tests, deploys and monitors code from development to production.
 
 Ci/CD are the two core pillars of DevOps.
 
@@ -23,5 +23,10 @@ Deployment - The automatic release of code into production after each change pas
 
 
 Tools
+Build
 Version control systems - Tools that manage changes to source code so developers can collaborate safely.
+
 Kubernetes - An operations and orchestration tool used to automate the deployment, scaling and management of containerised applications.
+
+Monitor 
+Grafana, Prometheus, ELK Stack
