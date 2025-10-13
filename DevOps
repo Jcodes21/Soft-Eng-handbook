@@ -17,4 +17,4 @@ Continous Delivery/Deployment CD
 Delivery - Automatically prepared code for release.
 
 
-Deployment - 
+Deployment - automatic release of code into production after each change passes the necessary tests.
