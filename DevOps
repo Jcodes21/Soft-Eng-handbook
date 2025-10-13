@@ -6,7 +6,7 @@ DevOps is a mindset and set of practices. It started as a cultural movement in 2
 It was inspired by frustrations between dev and ops teams not working effectiently together.
 Before Devops programmers would "throw code over the wall" to the operations teams who would deploy and maintain it.
 
-The purpose of DevOps is to sgorten the development lifecycle and improve collaboration, reliability and delivery speed through automation.
+The purpose of DevOps is to shorten the development lifecycle and improve collaboration, reliability and delivery speed through automation.
 
 A pipeline is an automated sequence of steps that builds, tests and deploys code from development to production.
 
@@ -17,6 +17,11 @@ A software development practice where developers frequently merge code changes i
 
 
 Continous Delivery/Deployment CD
-Delivery - Code is atomatically prepared for release.
+Delivery - Code is automatically prepared for release.
 
 Deployment - The automatic release of code into production after each change passes the necessary tests.
+
+
+Tools
+Version control systems - Tools that manage changes to source code so developers can collaborate safely.
+Kubernetes - An operations and orchestration tool used to automate the deployment, scaling and management of containerised applications.
