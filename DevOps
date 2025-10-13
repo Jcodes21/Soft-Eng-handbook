@@ -6,8 +6,6 @@ DevOps is a mindset and set of practices. It started as a cultural movement in 2
 It was inspired by frustrations between dev and ops teams not working effectiently together.
 Before Devops programmers would "throw code over the wall" to the operations teams who would deploy and maintain it.
 
-
-
 Continuous Integration CI
 A software development practice where developers frequently merge code changes into a shared repository.
 
