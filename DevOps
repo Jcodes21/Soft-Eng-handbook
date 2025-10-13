@@ -17,6 +17,6 @@ A software development practice where developers frequently merge code changes i
 
 
 Continous Delivery/Deployment CD
-Delivery - Automatically prepared code for release.
+Delivery - Code is atomatically prepared for release.
 
-Deployment - automatic release of code into production after each change passes the necessary tests.
+Deployment - The automatic release of code into production after each change passes the necessary tests.
