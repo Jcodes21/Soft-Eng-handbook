@@ -1,0 +1,36 @@
+IP
+The internet protocol is how devices communicate with eachother over the network.
+Each device is assigned either a static or dynamic IP address.
+
+Transmission Control Protocol - TCP
+Connection oriented. Sender and reciever must first establish connection with a 3 way handshake.
+SYN
+ACK
+
+
+Fast recovery
+TCP Tahoe
+TCP Reno
+
+
+User Datagram Protocol - UDP
+Connectionless, no handshake needed to establish connection.
+
+
+OSI model
+-------------
+Physical layer 
+Raw bit stream (1s 0s) over physical medium such as cables.
+
+Data link Layer - MAC
+
+Network layer - IP
+
+Transmission Layer - TCP
+
+Session layer 
+Connection management 
+
+Presentation Layer - 
+
+Application Layer - 
