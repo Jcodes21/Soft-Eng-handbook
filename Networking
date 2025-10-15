@@ -1,7 +1,11 @@
 The internet is a network of networks.
 
 MAC address
-Hardware identifier hardcode to a devices Network Interface Card NIC or equivalent network chip.
+The Media Access Control address. Hardware identifier hardcoded to a devices Network Interface Card NIC or equivalent network chip.
+A mac address is 48 bits (6 bytes) and usually looks like this: A4:5D:36:90:12:BB.
+The first 3 bytes are know as the Organisation Unique Identifier, OUI.
+
+
 Address resolution protocol ARP resolves an IP address to its correspondong MAC address.
 
 IP
