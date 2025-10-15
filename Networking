@@ -1,3 +1,9 @@
+The internet is a network of networks.
+
+MAC address
+Hardware identifier hardcode to a devices Network Interface Card NIC or equivalent network chip.
+Address resolution protocol ARP resolves an IP address to its correspondong MAC address.
+
 IP
 The internet protocol is how devices communicate with eachother over the network.
 Each device is assigned either a static or dynamic IP address.
@@ -6,6 +12,8 @@ IPv4
 192.168.1.0
 
 IPv6
+v6 addresses were created to accommodate the growing number of devices.
+
 
 
 Transmission Control Protocol - TCP
