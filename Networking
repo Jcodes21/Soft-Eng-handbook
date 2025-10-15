@@ -19,6 +19,9 @@ Connectionless, no handshake needed to establish connection.
 
 OSI model
 -------------
+The OSI model is a conceptual framework for understanding computer networking.
+
+
 Physical layer 
 Raw bit stream (1s 0s) over physical medium such as cables.
 
@@ -31,6 +34,8 @@ Transmission Layer - TCP
 Session layer 
 Connection management 
 
-Presentation Layer - 
+Presentation Layer
+Data formatting and encryption 
 
-Application Layer - 
+Application Layer
+user facing services
