@@ -2,6 +2,12 @@ IP
 The internet protocol is how devices communicate with eachother over the network.
 Each device is assigned either a static or dynamic IP address.
 
+IPv4
+192.168.1.0
+
+IPv6
+
+
 Transmission Control Protocol - TCP
 Connection oriented. Sender and reciever must first establish connection with a 3 way handshake.
 SYN
